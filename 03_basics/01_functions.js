@@ -57,7 +57,9 @@ function handleObject(anyobject){
 }
 
 // handleObject(user)
-handleObject({
+// defining & passing object in function in one go ,  rather than creating object first and then passing it 
+
+handleObject({ 
     username: "sam",
     price: 399
 })
