@@ -1,6 +1,7 @@
 //  Primitive
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
+// primitive - where we get copy of address of memory rather than direct access to the memory location
 
 const score = 100
 const scoreValue = 100.3
