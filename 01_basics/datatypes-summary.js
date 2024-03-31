@@ -16,7 +16,7 @@ const anotherId = Symbol('123')
 console.log(id === anotherId);
 
 // const bigNumber = 3456543576654356754n
-
+// using n after number will make it big integer
 
 
 // Reference (Non primitive)
